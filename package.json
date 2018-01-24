@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-shang",
+  "version": "1.0.1",
+  "description": "This package provides developer code personalized check use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyaCoding/eslint-config-shang.git"
+  },
+  "keywords": [
+    "['eslint'",
+    "'config'",
+    "'shang']"
+  ],
+  "author": "shangpanpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyaCoding/eslint-config-shang/issues"
+  },
+  "homepage": "https://github.com/CrazyaCoding/eslint-config-shang#readme"
+}

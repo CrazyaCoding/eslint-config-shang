@@ -1,2 +1,12 @@
 # eslint-config-shang
-eslint的个性化配置
+First, install this package
+
+```sh
+npm install eslint-config-58fe eslint babel-eslint eslint-plugin-import  --save-dev
+```
+
+Then add following contents to your .eslintrc file
+
+{
+  "extends": "58fe"
+}
